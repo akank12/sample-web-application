@@ -1,0 +1,4 @@
+[local]
+localhost ansible_connection=local
+devopsvm  ansible_user=devops ansible_host=20.117.140.32
+#devopsvm2 ansible_user=devopsvm2 ansible_host=20.108.1.227
